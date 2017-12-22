@@ -1,1 +1,2 @@
 # metacoin
+Sample readme
